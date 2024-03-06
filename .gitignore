@@ -1,0 +1,4 @@
+*.dta
+.RData
+.Rhistory
+.Rproj.user
